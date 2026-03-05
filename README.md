@@ -83,4 +83,4 @@ This dashboard can help stakeholders:
 
 ## 📊 Dashboard Preview
 
-![Sales Performance Dashboard](sales-performance-dashboard.png)
+![Sales Performance Dashboard](Sales-Performance-Dashboard.png)
